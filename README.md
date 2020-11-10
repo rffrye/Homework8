@@ -13,10 +13,12 @@ In this project node.js was used to create a terminal application that would gen
 
 #### Demonstration 
 
+![GitHub Logo](Demo.gif)
+
 #### links
 
 * GitHub: https://github.com/rffrye/Homework8
-* Demo Video:
+* Demo Video: https://youtu.be/3PomwYUmfEk
 
 
 #### Contact
